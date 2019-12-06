@@ -43,7 +43,7 @@ Tickets for SRCCON:PRODUCT will be $125 plus ticketing fees. Early-bird applicat
 
 SRCCON:PRODUCT will be intentionally small, at about 150 participants. This size means we need to be equitable in distributing tickets and ensuring that there are a mix of perspectives and skills represented. Our call for participation form will help us understand who would like to take part and what you're hoping to take home with you.
 
-The form will also include an application for travel support. Scholarships will provide a $350 stipend, with a limited number of $500 stipends available for folks with higher travel costs.
+The form will also include an application for travel support. Scholarships will provide a free ticket to the event and a $350 stipend, with a limited number of $500 stipends available for folks with higher travel costs.
 
 <div class="page-divider"><span>Our rough schedule for the day</span></div>
 
