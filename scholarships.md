@@ -14,7 +14,7 @@ There's no separate application—we'll have scholarship questions on our call f
 ## What we&rsquo;re offering
 
 * A free ticket to the event
-* $500 for you to use toward the cost of travel to the event
+* A $350 stipend to use toward the cost of travel to the event, with a limited number of $500 stipends available for folks with higher travel costs
 
 (For scholarship recipients who live in the area, we offer a ticket without the additional travel funding.)
 
@@ -36,7 +36,7 @@ Notifications for scholarships will go out alongside other notifications as part
 
 You tell us how it went! We&rsquo;ll send you a short followup survey and will be excited to check out anything you write or build coming out of your participation.
 
-## Why do you offering these scholarships?
+## Why do you offer these scholarships?
 
 We want to make sure that SRCCON is an event that includes the diversity of the communities we serve&mdash;geographically, demographically, experientially, and more. We know that travel costs can be a hardship, and offer this scholarship as a way to help mitigate that.
 
@@ -53,4 +53,5 @@ When we notify scholarship recipients, we'll include information about how to re
 We're able to offer $500 scholarships at this time. We do try to schedule SRCCON events in cities that are relatively cheap once you arrive, though, and share information between attendees who want to coordinate ways to save on their travel budget. (So if you, say, wanted to create a room-share spreadsheet, we'd be happy to help spread the word!) You can [email us with any suggestions](mailto:srccon@opennews.org).
 
 ## Questions not covered here?
+
 [Email us](mailto:srccon@opennews.org).
