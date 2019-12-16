@@ -14,7 +14,7 @@ There's no separate application. Scholarship questions are part of our [call for
 ## What we&rsquo;re offering
 
 * A free ticket to the event
-* A $350 stipend to use toward the cost of travel to the event, with a limited number of $500 stipends available for folks with higher travel costs
+* A $350 stipend to use toward the cost of travel to the event, with a limited number of $500 stipends available for folks with higher travel costs and a limited number of larger scholarships for international participants
 
 (For scholarship recipients who live in the area, we offer a ticket without the additional travel funding.)
 
