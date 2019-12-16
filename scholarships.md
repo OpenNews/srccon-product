@@ -9,7 +9,7 @@ title: SRCCON:PRODUCT 2020 — Scholarships
 
 Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code and tech, we want to help you attend SRCCON events.
 
-There's no separate application—we'll have scholarship questions on our call for participation form when it opens.
+There's no separate application. Scholarship questions are part of our [call for participation form](/participation/form).
 
 ## What we&rsquo;re offering
 
@@ -26,11 +26,11 @@ There's no separate application—we'll have scholarship questions on our call f
 
 ## How to apply
 
-Select the "Would you like to be considered for a scholarship?" option on the call for participation form when it opens. A few scholarship-specific questions will pop onto the form.
+Select the "Would you like to be considered for a scholarship?" option on the [call for participation form](/participation/form). A few scholarship-specific questions will pop onto the form.
 
 ## When notifications go out
 
-Notifications for scholarships will go out alongside other notifications as part of the call for participation.
+Notifications for scholarships will go out alongside other notifications as part of the call for participation (on December 19 for early bird applications and January 15 for regular applications).
 
 ## What happens after SRCCON
 
