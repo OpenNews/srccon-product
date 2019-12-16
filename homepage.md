@@ -10,13 +10,15 @@ title: SRCCON:PRODUCT 2020 — February 8, Philadelphia
     <p>If you&rsquo;d like to get involved, get in touch!<span class="contact-options"> <a href="https://twitter.com/srccon">Twitter</a> / <a href="mailto:srccon@opennews.org">Email</a> / <a href="https://bit.ly/ProductThinkers">Newsletter</a></span></p>
 </div>
 
+Our call for participation **[form is now open](/participation/form).**
+
 <div class="page-divider"><span>When & where</span></div>
 
 **February 8, 2020, at Temple University in Philadelphia**
 
 A couple more important dates for your calendar:
 
-* **Early-bird applications** will be open December 16-18, 2019. These notifications will go out December 19 to help anyone who needs to be able to make plans by the end of this calendar year.
+* **Early-bird applications** are open until December 18, 2019. These notifications will go out December 19 to help anyone who needs to be able to make plans by the end of this calendar year. [Let us know you'd like to be there](/participation/form).
 * **Regular applications** will remain open through January 9, 2020, with notifications going out by January 15.
 
 <div class="page-divider"><span>About SRCCON:PRODUCT</span></div>
@@ -39,11 +41,11 @@ We learn best when we learn from each other, and SRCCON events are built to supp
 
 <div class="page-divider"><span>Tickets & attending</span></div>
 
-Tickets for SRCCON:PRODUCT will be $125 plus ticketing fees. Early-bird applications will be open December 16-18, 2019, and regular applications will remain open through January 9, 2020.
+Tickets for SRCCON:PRODUCT will be $125 plus ticketing fees. [Early-bird applications are open till December 18, 2019](/participation/form), and regular applications will remain open through January 9, 2020.
 
 SRCCON:PRODUCT will be intentionally small, at about 150 participants. This size means we need to be equitable in distributing tickets and ensuring that there are a mix of perspectives and skills represented. Our call for participation form will help us understand who would like to take part and what you're hoping to take home with you.
 
-The form will also include an application for travel support. Scholarships will provide a free ticket to the event and a $350 stipend, with a limited number of $500 stipends available for folks with higher travel costs.
+[The form also includes](/participation/form) an application for travel support. Scholarships will provide a free ticket to the event and a $350 stipend, with a limited number of $500 stipends available for folks with higher travel costs.
 
 <div class="page-divider"><span>Our rough schedule for the day</span></div>
 
@@ -54,7 +56,7 @@ The form will also include an application for travel support. Scholarships will 
 * **Afternoon:** More sessions, snacks, & conversation-friendly breaks
 * **6pm:** Event closing
 
-We expect it to be a busy, fun, and productive day where we all take away new ideas and stronger connections with colleagues.
+We expect it to be a busy, fun, and productive day where we all take away new ideas and stronger connections with colleagues. [Let us know if you would like to be there](/participation/form).
 
 <div class="page-divider"><span>About SRCCON:PRODUCT</span></div>
 
