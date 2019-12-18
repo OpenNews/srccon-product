@@ -16,10 +16,9 @@ Our call for participation **[form is now open](/participation/form).**
 
 **February 8, 2020, at Temple University in Philadelphia**
 
-A couple more important dates for your calendar:
+Important dates for your calendar:
 
-* **Early-bird applications** are open until December 18, 2019. These notifications will go out December 19 to help anyone who needs to be able to make plans by the end of this calendar year. [Let us know you'd like to be there](/participation/form).
-* **Regular applications** will remain open through January 9, 2020, with notifications going out by January 15.
+* **Call for particpiation applications** are open through January 9, 2020, with notifications going out by January 15. [Let us know you'd like to be there](/participation/form).
 
 <div class="page-divider"><span>About SRCCON:PRODUCT</span></div>
 
@@ -37,15 +36,14 @@ The discussions and workshops at SRCCON:PRODUCT will lead to the best ideas when
 * people doing the often-invisible work of bringing product thinking to their newsroom, regardless of role or title 
 * people who want to better understand how organizing around product can shift the way news organizations operate
 
-We learn best when we learn from each other, and SRCCON events are built to support you in bringing who you are and what you have to share with this community. 
 
 <div class="page-divider"><span>Tickets & attending</span></div>
 
-Tickets for SRCCON:PRODUCT will be $125 plus ticketing fees. [Early-bird applications are open till December 18, 2019](/participation/form), and regular applications will remain open through January 9, 2020.
+Tickets for SRCCON:PRODUCT will be $125 plus ticketing fees. [Applications are open till January 9, 2020](/participation/form). (Early bird applications closed on December 18.)
 
 SRCCON:PRODUCT will be intentionally small, at about 150 participants. This size means we need to be equitable in distributing tickets and ensuring that there are a mix of perspectives and skills represented. Our call for participation form will help us understand who would like to take part and what you're hoping to take home with you.
 
-[The form also includes](/participation/form) an application for travel support. Scholarships will provide a free ticket to the event and a $350 stipend, with a limited number of $500 stipends available for folks with higher travel costs.
+[The form also includes](/participation/form) an application for travel support. Scholarships will provide a free ticket to the event and a $350 stipend, with a limited number of larger stipends available for folks with higher travel costs and international participants.
 
 <div class="page-divider"><span>Our rough schedule for the day</span></div>
 
