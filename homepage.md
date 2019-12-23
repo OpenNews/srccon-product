@@ -36,6 +36,7 @@ The discussions and workshops at SRCCON:PRODUCT will lead to the best ideas when
 * people doing the often-invisible work of bringing product thinking to their newsroom, regardless of role or title 
 * people who want to better understand how organizing around product can shift the way news organizations operate
 
+For folks from smaller newsrooms who are new to product, there is also a [Product Immersion for Small Newsrooms training program](https://newsinitiative.withgoogle.com/training/product-immersion) from NewsCatalyst and the Craig Newmark Graduate School of Journalism at CUNY that has been developed in partnership with Google News Initiative. Participants in that program will also attend SRCCON:PRODUCT and begin in-person training the day following. There is a [separate application](https://docs.google.com/forms/d/e/1FAIpQLSfFUhfL8a5j42vggGj2nrRCVQn_0ih6DC8TGG-qeExbn6a4lg/viewform) for this program.
 
 <div class="page-divider"><span>Tickets & attending</span></div>
 
