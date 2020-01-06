@@ -7,8 +7,9 @@ title: SRCCON:PRODUCT 2020 — February 8, Philadelphia
 
 <div class="page-intro">
     <p class="big-type">A participant-led, interactive conference for 150 product thinkers: the first event by, for, and about product and news.</p>
-    <p>If you&rsquo;d like to get involved, get in touch!<span class="contact-options"> <a href="https://twitter.com/srccon">Twitter</a> / <a href="mailto:srccon@opennews.org">Email</a> / <a href="https://bit.ly/ProductThinkers">Newsletter</a></span></p>
 </div>
+
+<p>If you&rsquo;d like to get involved, get in touch!<span class="contact-options"> <a href="https://twitter.com/srccon">Twitter</a> / <a href="mailto:srccon@opennews.org">Email</a> / <a href="https://bit.ly/ProductThinkers">Newsletter</a></span></p>
 
 Our call for participation **[form is now open](/participation/form).**
 
@@ -18,7 +19,7 @@ Our call for participation **[form is now open](/participation/form).**
 
 Important dates for your calendar:
 
-* **Call for particpiation applications** are open through January 9, 2020, with notifications going out by January 15. [Let us know you'd like to be there](/participation/form).
+* **Call for participation applications** are open through January 9, 2020, with notifications going out by January 15. [Let us know you'd like to be there](/participation/form).
 
 <div class="page-divider"><span>About SRCCON:PRODUCT</span></div>
 
