@@ -5,7 +5,11 @@ permalink: /sponsors/
 title: SRCCON:PRODUCT 2020 — Our Sponsors
 ---
 
-<div class="page-divider"><span>Partnership sponsors</span></div>
+# Our sponsors
+
+Interested in having your company or organization get involved? [Find out more about becoming a sponsor of SRCCON](/sponsors/about/).
+
+<div class="page-divider"><span>Developed in partnership with</span></div>
 
 <div class="sponsor-block">
     <a href="https://newsinitiative.withgoogle.com/"><img src="/media/img/partners/google_news_initiative.png" alt="Google News Initiative"></a>
@@ -42,4 +46,9 @@ title: SRCCON:PRODUCT 2020 — Our Sponsors
     <a href="https://www.rjionline.org/"><img src="/media/img/partners/rji.png" alt="Reynolds Journalism Institute"></a>
 </div>
 
-<p>Interested in having your company or organization get involved? <a href="/sponsors/about/">Find out more about becoming a sponsor of SRCCON</a>.</p>
+
+<div class="page-divider"><span>Snack sponsor</span></div>
+
+<div class="sponsor-block secondary">
+    <a href="https://alley.co/"><img src="/media/img/partners/alley.png" alt="Alley Interactive"></a>
+</div>
