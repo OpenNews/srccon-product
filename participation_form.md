@@ -5,9 +5,9 @@ permalink: /participation/form/
 title: SRCCON:PRODUCT 2020 — Call for Participation Form
 ---
 
-# SRCCON:PRODUCT Call for Participation
+# SRCCON:PRODUCT call for participation
 
-We can't wait to hear how you'd like to participate at SRCCON:PRODUCT! If you want to attend, facilitate a session, or take part in some other way, this one form is where to let us know. 
+We can't wait to hear how you'd like to participate at SRCCON:PRODUCT! If you want to attend, facilitate a session, or take part in some other way, this one form is where to let us know.
 
 This event is a collaborative project, with a product thinking advisory group that is also involved in organizing along with OpenNews staff. Your form responses may be shared with that group as part of the process developing an event that meets the needs of this community.
 
