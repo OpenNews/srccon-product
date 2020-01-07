@@ -1,8 +1,8 @@
 ---
 layout: layout_hub
 section: sponsors
-permalink: /sponsors/
-title: SRCCON:PRODUCT 2020 — Become a SRCCON Sponsor
+permalink: /sponsors/about/
+title: SRCCON:PRODUCT 2020 — Become a Sponsor
 ---
 
 # Become a SRCCON Sponsor

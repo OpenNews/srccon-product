@@ -50,8 +50,12 @@ h1, h2, h3, h4 {
 
 
 .hub header {
-    margin: 1em 0;
+    margin: 1em 0 3em;
 }
+.hub.homepage header {
+    margin-bottom: 1em;
+}
+
 .hub #hub-nav .top-bar {
     text-align: left;
     font-size: .8em;
@@ -320,6 +324,9 @@ main input {
 .sponsor-block {
     margin: 0 0 2.5em;
 }
+.hub .sponsor-block {
+    margin: 2em 0;
+}
 .sponsor-block img {
     width: 75%;
     display: block;
@@ -343,11 +350,6 @@ footer p {
     margin-bottom: 2em;
 }
 
-footer #footer-nav {
-    background-color: #232D44;
-    margin-bottom: 1em;
-    font-size: .6em;
-}
 footer ul {
     margin: 0 0 2em;
     padding: 0;
@@ -356,7 +358,12 @@ footer li {
     list-style: none;
     padding-left: 0;
 }
-footer #footer-nav ul {
+#footer-nav {
+    background-color: #232D44;
+    margin-bottom: 1em;
+    font-size: .6em;
+}
+#footer-nav ul {
     line-height: 1;
     display: flex;
     align-items: center;
@@ -364,10 +371,10 @@ footer #footer-nav ul {
     padding: 0 2em;
     margin: 0;
 }
-footer #footer-nav li {
+#footer-nav li {
     flex-grow: 1;
 }
-footer #footer-nav li a {
+#footer-nav li a {
     display: block;
     text-align: center;
     padding: 1em;
@@ -375,21 +382,27 @@ footer #footer-nav li a {
     text-decoration: none;
     color: #fff;
 }
-footer #footer-nav a:hover {
+#footer-nav a:hover {
     text-decoration: underline;
 }
-footer #footer-details .page-container {
+#footer-details .page-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
-footer #footer-details,
-footer #footer-sponsors {
+#footer-details,
+#footer-sponsors {
     padding: 1em;
     font-size: .67em;
     text-align: left;
 }
+#footer-sponsors h3 {
+    margin-bottom: .67em;
+}
 .hub footer {
     padding-bottom: 2em;
+}
+.hub footer #footer-sponsors {
+    margin-bottom: 2em;
 }
 .hub footer .trailer {
     padding-top: 2em;
@@ -404,11 +417,11 @@ footer #footer-sponsors {
 
 .sponsor-list a {
     display: inline-block;
-    margin: 0 4% .67em 0;
-    width: 35%;
+    margin: 0 5% 1em 0;
+    width: 40%;
 }
 .sponsor-list a.narrow-logo {
-    width: 15%;
+    width: 23%;
 }
 .sponsor-list a.wide-logo {
     width: 45%;
@@ -680,6 +693,9 @@ table a.session-transcript {
         width: 20%;
         margin: 1.5em 0;
     }
+    .hub .sponsor-list a.narrow-logo {
+        width: 33%;
+    }
     .sponsor-list h3 + a.narrow-logo {
         width: 25%;
         margin: 1.5em 0;
@@ -800,12 +816,10 @@ table a.session-transcript {
     }
     .sponsor-list {
         display: inherit;
-        text-align: center;
         margin-bottom: 2em;
     }
     #footer-sponsors h3 {
         display: inherit;
-        text-align: center;
         font-size: 1.3em;
     }
     .sponsor-list a,
@@ -813,13 +827,16 @@ table a.session-transcript {
     .sponsor-list h3 + a {
         display: block;
         width: 67%;
-        margin: 1em auto 0;
+        margin: 1em 0;
     }
     .sponsor-list h3 + a {
         width: 55%;
     }
     .sponsor-list a.narrow-logo {
-        width: 25%;
+        width: 35%;
+    }
+    .hub .sponsor-list a.narrow-logo {
+        width: 40%;
     }
     .sponsor-list h3 + a.narrow-logo {
         width: 30%;
