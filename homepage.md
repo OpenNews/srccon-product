@@ -10,15 +10,14 @@ title: SRCCON:PRODUCT 2020 — February 8, Philadelphia
     <p>If you&rsquo;d like to get involved, get in touch!<span class="contact-options"> <a href="https://twitter.com/srccon">Twitter</a> / <a href="mailto:srccon@opennews.org">Email</a> / <a href="https://bit.ly/ProductThinkers">Newsletter</a></span></p>
 </div>
 
-Our call for participation **[form is now open](/participation/form).**
-
 <div class="page-divider"><span>When & where</span></div>
 
-**February 8, 2020, at Temple University in Philadelphia**
+February 8, 2020, at Temple University in Philadelphia
 
-Important dates for your calendar:
+SRCCON:PRODUCT is taking place in the [Student Center](https://goo.gl/maps/AvYSqhRTMs4C14nR8) on Temple University's campus in North Philadelphia. We have a [discount hotel block](https://secure3.hilton.com/en_US/hp/reservation/book.htm?inputModule=HOTEL&ctyhocn=PHLCVHX&spec_plan=CHHSRC&arrival=20200207&departure=20200210&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) booked in Center City, and more information about getting around town on our [logistics page](/logistics). 
 
-* **Call for particpiation applications** are open through January 9, 2020, with notifications going out by January 15. [Let us know you'd like to be there](/participation/form).
+The call for participation form is now closed. Thank you to everyone who pitched a session or applied to attend. We will contact all applicants by January 15.
+
 
 <div class="page-divider"><span>About SRCCON:PRODUCT</span></div>
 
@@ -34,27 +33,13 @@ The discussions and workshops at SRCCON:PRODUCT will lead to the best ideas when
 
 * people already working in product management and development for news, who want to be part of a larger community changing journalism
 * people doing the often-invisible work of bringing product thinking to their newsroom, regardless of role or title 
-* people who want to better understand how organizing around product can shift the way news organizations operate
+* people who want to better understand how organizing around product can shift the way news organizations operate 
 
 
-<div class="page-divider"><span>Tickets & attending</span></div>
+<div class="page-divider"><span>What's next</span></div>
 
-Tickets for SRCCON:PRODUCT will be $125 plus ticketing fees. [Applications are open till January 9, 2020](/participation/form). (Early bird applications closed on December 18.)
+Stay in touch by following [@SRCCON](https://twitter.com/srccon) and find out about updates in the Product Thinking group [by joining the list serv](https://bit.ly/ProductThinkers). If you have a specific question, [please reach out](mailto:srccon@opennews.org).
 
-SRCCON:PRODUCT will be intentionally small, at about 150 participants. This size means we need to be equitable in distributing tickets and ensuring that there are a mix of perspectives and skills represented. Our call for participation form will help us understand who would like to take part and what you're hoping to take home with you.
-
-[The form also includes](/participation/form) an application for travel support. Scholarships will provide a free ticket to the event and a $350 stipend, with a limited number of larger stipends available for folks with higher travel costs and international participants.
-
-<div class="page-divider"><span>Our rough schedule for the day</span></div>
-
-* **9am:** Registration opens
-* **10am:** Event opens
-* **Morning:** Sessions & conversation-friendly breaks
-* **Midday:** Lunch at SRCCON:PRODUCT with the people you meet
-* **Afternoon:** More sessions, snacks, & conversation-friendly breaks
-* **6pm:** Event closing
-
-We expect it to be a busy, fun, and productive day where we all take away new ideas and stronger connections with colleagues. [Let us know if you would like to be there](/participation/form).
 
 <div class="page-divider"><span>About SRCCON:PRODUCT</span></div>
 

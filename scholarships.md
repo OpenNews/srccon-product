@@ -9,7 +9,7 @@ title: SRCCON:PRODUCT 2020 — Scholarships
 
 Whether you&rsquo;re a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code and tech, we want to help you attend SRCCON events.
 
-There's no separate application. Scholarship questions are part of our [call for participation form](/participation/form).
+There's no separate application. Scholarship questions were part of our call for participation form.
 
 ## What we&rsquo;re offering
 
@@ -26,7 +26,7 @@ There's no separate application. Scholarship questions are part of our [call for
 
 ## How to apply
 
-Select the "Would you like to be considered for a scholarship?" option on the [call for participation form](/participation/form). A few scholarship-specific questions will pop onto the form.
+A few scholarship-specific questions were on the call for participation form.
 
 ## When notifications go out
 
@@ -50,7 +50,7 @@ When we notify scholarship recipients, we'll include information about how to re
 
 ## What if I need more than $500 for my travel?
 
-We're able to offer $500 scholarships at this time. We do try to schedule SRCCON events in cities that are relatively cheap once you arrive, though, and share information between attendees who want to coordinate ways to save on their travel budget. (So if you, say, wanted to create a room-share spreadsheet, we'd be happy to help spread the word!) You can [email us with any suggestions](mailto:srccon@opennews.org).
+We're able to offer $350-500 scholarships at this time. We do try to schedule SRCCON events in cities that are relatively cheap once you arrive, though, and share information between attendees who want to coordinate ways to save on their travel budget. (So if you, say, wanted to create a room-share spreadsheet, we'd be happy to help spread the word!) You can [email us with any suggestions](mailto:srccon@opennews.org).
 
 ## Questions not covered here?
 
