@@ -5,7 +5,7 @@ permalink: /participation/thanks/
 title: SRCCON:PRODUCT 2020 — Thanks for Answering Our Call for Participation!
 ---
 
-# Thank You for Answering the SRCCON:PRODUCT Call for Participation!
+# Thank you for answering the SRCCON:PRODUCT call for participation!
 
 We're excited to hear you'd like to be at SRCCON:PRODUCT, and we’ll follow up with you on January 15.
 
