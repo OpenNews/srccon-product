@@ -18,7 +18,6 @@ SRCCON:PRODUCT is taking place in the [Student Center](https://goo.gl/maps/AvYSq
 
 The call for participation form is now closed. Thank you to everyone who pitched a session or applied to attend. We will contact all applicants by January 15.
 
-
 <div class="page-divider"><span>About SRCCON:PRODUCT</span></div>
 
 Product managers play a key role in bridging the gap between executives, newsrooms, revenue teams, and the audience each serves. And “product thinking” is a skill practiced by many within today’s news organizations, regardless of job title. SRCCON:PRODUCT will [bring together these many kinds of product thinkers](https://opennews.org/blog/announcing-srccon-product) to focus on this question:
@@ -34,7 +33,6 @@ The discussions and workshops at SRCCON:PRODUCT will lead to the best ideas when
 * people already working in product management and development for news, who want to be part of a larger community changing journalism
 * people doing the often-invisible work of bringing product thinking to their newsroom, regardless of role or title 
 * people who want to better understand how organizing around product can shift the way news organizations operate 
-
 
 <div class="page-divider"><span>What's next</span></div>
 
