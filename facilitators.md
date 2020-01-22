@@ -45,7 +45,9 @@ Here are a few principles that can help:
     * If someone makes a problematic comment, you can address the issue in the moment. (For example, if a participant only uses male pronouns to refer to developers, you might clarify that there are also skilled women devs, including some folks in the room!)
     * Try to avoid jargon. Explain it when you can't avoid it, and feel free to ask for clarification on behalf of everyone when someone uses an unfamiliar term.
 
-We truly appreciate you sharing your time and knowledge with everyone, and trust each facilitator to help us make SRCCON:PRODUCT a place where people can share and learn together. We also want you to know that we have your back! You'll be surrounded by supportive staff and volunteers—if any questions or concerns come up, [please reach out](mailto:srccon@opennews.org).
+Leading a hands-on workshop and helping people stay engaged can take a lot of energy, so we always schedule long breaks and plenty of beverages and snacks to give facilitators and participants time to re-energize. We also try to schedule in a way that meets differing energy levels throughout the day, offering sessions that help participants engage in different ways (including, yep, sometimes just listening with curiosity, no sharpie required).
+
+We truly appreciate you sharing your time and knowledge with everyone, and trust each facilitator to help us make SRCCON:PRODUCT a place where people can share and learn together. And we want you to know that we have your back! You’ll be surrounded by supportive staff and volunteers—if any questions or concerns come up, [please reach out](mailto:srccon@opennews.org).
 
 We also have some favorite guides with further tips:
 
@@ -67,12 +69,12 @@ Our schedule will have four to five sessions at a time, so planning for 20-30 pe
 
 SRCCON:PRODUCT takes place in the [Student Center](https://studentcenter.temple.edu/) at Temple University, [1755 N. 13th Street, Philadelphia](https://goo.gl/maps/QgEL5TbpTanyQheW6).
 
-* **the Underground** will be our main space to gather as a full group, and we'll divide it into two spaces for 40 and 60 people during sessions
+* **Underground A&B** will be our main space to gather as a full group, and we'll divide it into two spaces for 35 and 50 people during sessions
 * **the Cinema** will have seating for 150, and is where we'll schedule sessions heavy on show and tell
-* **Room 220** will have tables and chairs for 40
-* **Room 223** will also have tables and chairs for 40
+* **Room 220** will have tables and chairs for 35
+* **Room 223** will also have tables and chairs for 35
 
-Each session room will have post-it notes, pens, scratch paper, and plenty of tools for creative discussions and problem-solving. 
+Each session room will have post-it notes, pens, scratch paper, and other tools for creative discussions and problem-solving. 
 
 <span id="about-the-day"></span>
 
@@ -80,14 +82,14 @@ Each session room will have post-it notes, pens, scratch paper, and plenty of to
 
 We'll have four 1-hour session blocks throughout the day with four to five sessions running at a time. Some sessions will be pre-scheduled, and others we'll add to the agenda that morning as a group.
 
-* **9am:** registration opens  
-* **9:45-10:15am:** introduction to unconferencing! we'll create the schedule together  
+* **9am:** registration opens, we'll have breakfast and start creating the schedule together  
+* **9:45-10:15am:** welcome and introduction to unconferencing!
 * **10:30-11:30am:** first session  
-* **11:30am-noon:** break, with tea and coffee and conversation  
+* **11:30am-noon:** break, with snacks and conversation  
 * **noon-1pm:** second session  
 * **1pm-2:30pm:** lunch  
 * **2:30-3:30pm:** third session  
-* **3:30-4pm:** break, with snack and conversation  
+* **3:30-4pm:** break, with snacks and conversation  
 * **4-5pm:** final session  
 * **5:15-5:45:** we'll gather as a group to close the day  
 * **6pm:** SRCCON:PRODUCT closes  
