@@ -12,11 +12,11 @@ title: SRCCON:PRODUCT 2020 — February 8, Philadelphia
 
 <div class="page-divider"><span>When & where</span></div>
 
-February 8, 2020, at Temple University in Philadelphia
+**February 8, 2020, at Temple University in Philadelphia**
 
 SRCCON:PRODUCT is taking place in the [Student Center](https://goo.gl/maps/AvYSqhRTMs4C14nR8) on Temple University's campus in North Philadelphia. We have a [discount hotel block](https://secure3.hilton.com/en_US/hp/reservation/book.htm?inputModule=HOTEL&ctyhocn=PHLCVHX&spec_plan=CHHSRC&arrival=20200207&departure=20200210&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) booked in Center City, and more information about getting around town on our [logistics page](/logistics). 
 
-The call for participation form is now closed. Thank you to everyone who pitched a session or applied to attend. We will contact all applicants by January 15.
+The call for participation form is now closed. Thank you to everyone who pitched a session or applied to attend.
 
 <div class="page-divider"><span>About SRCCON:PRODUCT</span></div>
 
