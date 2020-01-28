@@ -106,6 +106,21 @@
     }, 
     {
         "day": "Saturday", 
+        "description": "", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "am-break", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Underground A", 
+        "time": "11:30am-12pm", 
+        "timeblock": "saturday-am-break", 
+        "title": "Break with snacks & drinks", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Saturday", 
         "description": "Perhaps the most critically important decision around product is not what it does, who it's for and how it works - it's the money behind it. The funding for the building, maintenance, marketing, and revenue model behind a product determines whether it lives or dies, no matter how brilliant and useful it is. In this session we'll unpack the menu of options for funding product, where compromise sneaks in, and how to build with awareness.", 
         "everyone": "", 
         "facilitators": "Jennifer Brandel, Simon Galperin", 
@@ -181,7 +196,7 @@
     }, 
     {
         "day": "Saturday", 
-        "description": "", 
+        "description": "For lunch, we'll head to the Student Center Food Court upstairs (we'll share $12 meal tickets along with your name badge at registration). In the food court on Saturdays the following restaurants are open: Which Which, Twisted Taco, Chick-fil-A, and Burger Fi. We'll provide additional drinks in the Underground space, and you can always feel free to head outside and do lunch on your own!", 
         "everyone": "y", 
         "facilitators": "", 
         "facilitators_twitter": "", 
@@ -267,6 +282,21 @@
         "time": "2:30-3:30pm", 
         "timeblock": "saturday-pm-1", 
         "title": "Open for session ideas", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Saturday", 
+        "description": "", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "pm-break", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Underground A", 
+        "time": "3:30-4pm", 
+        "timeblock": "saturday-pm-break", 
+        "title": "Break with snacks & drinks", 
         "transcription": ""
     }, 
     {

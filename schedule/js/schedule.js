@@ -448,7 +448,7 @@ function Schedule(CONFIG) {
 
         // exclude "everyone" sessions like lunch, dinner, etc.
         var fullList = _.reject(schedule.sessionList, function(i) {
-            return i.everyone;
+            return i.everyone || i.title == 'Open for session ideas';
         });
         // sort the data by session name, not by schedule time
         fullList = _.sortBy(fullList, function(i) {
