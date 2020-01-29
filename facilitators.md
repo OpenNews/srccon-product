@@ -2,7 +2,7 @@
 layout: layout_hub
 section: facilitators
 permalink: /facilitators/
-title: SRCCON:PRODUCT 2020 — Facilitator Information
+title: SRCCON:PRODUCT 2020 — Facilitator Guide
 ---
 
 # Facilitator guide
@@ -36,7 +36,8 @@ Here are a few principles that can help:
     * Identify the takeaways you want people to leave with. A new skill? Bigger ideas? A broader sense of community? When you start planning your session by thinking about the end, it helps focus everything that leads up to that moment.
 * **Use your power as a facilitator to keep your session on track.**
     * You set the agenda, and sharing it with everyone as you start can help people get ready to participate. You can decide how to handle unexpected challenges, and when to revise or throw out the plan.
-    * Naming your goals makes it easy to check in with participants about progress along the way and gives you something to review at the end of the session. (Also known as “tell them what you're going to tell them, then tell them, then tell them what you told them.”)
+    * Invite participants to help! There are lots of ways to get people involved, from tracking time during activities to taking notes up on the screen.
+    * Naming your goals makes it easy to check in with everyone about progress along the way and gives you something to review at the end of the session. (Also known as “tell them what you're going to tell them, then tell them, then tell them what you told them.”)
     * If conversations are getting off-topic, you can acknowledge the interesting things people are bringing up and still nudge them back toward your session goals.
 * **Use your power as a facilitator to make it a welcoming space.**
     * You're an advocate for attendees. You may want to start off by asking about your group's background: How much experience are they bringing into the conversation? What are they hoping to take home from this event?
