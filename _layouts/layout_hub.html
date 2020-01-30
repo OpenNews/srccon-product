@@ -38,8 +38,12 @@
 <body class="hub{% if page.section %} {{ page.section }}{% endif %}">
     <header>
         <nav id="hub-nav">
-            <div class="page-container">{% if page.section != 'homepage' %}
-                <div class="top-bar"><a href="/">&larr; SRCCON:PRODUCT Home</a></div>{% endif %}
+            <div class="page-container">
+                <div class="top-bar">
+                    {% if page.section != 'homepage' %}<a id="back-home" href="/">&larr;<span class="narrow-hide"> SRCCON:PRODUCT</span> Home</a>{% endif %}
+                    <a href="/schedule">Schedule</a>
+                    <a href="/attendees">Attendees</a>
+                </div>
                 <a id="main-logo" href="/"><img src="/media/img/srccon_product_logo.png"></a>
             </div>
         </nav>

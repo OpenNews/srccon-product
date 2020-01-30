@@ -14,11 +14,16 @@ title: SRCCON:PRODUCT 2020 — February 8, Philadelphia
 
 **February 8, 2020, at Temple University in Philadelphia**
 
-SRCCON:PRODUCT is taking place in the [Student Center](https://goo.gl/maps/AvYSqhRTMs4C14nR8) on Temple University's campus in North Philadelphia. We have a [discount hotel block](https://secure3.hilton.com/en_US/hp/reservation/book.htm?inputModule=HOTEL&ctyhocn=PHLCVHX&spec_plan=CHHSRC&arrival=20200207&departure=20200210&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) booked in Center City, and more information about getting around town on our [logistics page](/logistics). 
+<ul class="actions">
+    <li>&rarrhk; <a href="/schedule">See the conference schedule!</a></li>
+    <li>&rarrhk; <a href="/attendees">Attendee guide with participation tips</a></li>
+</ul>
+
+SRCCON:PRODUCT will be in the [Student Center](https://goo.gl/maps/AvYSqhRTMs4C14nR8) on Temple University's campus in North Philadelphia. We have a [discount hotel block](https://secure3.hilton.com/en_US/hp/reservation/book.htm?inputModule=HOTEL&ctyhocn=PHLCVHX&spec_plan=CHHSRC&arrival=20200207&departure=20200210&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) booked in Center City, and more information about getting around town on our [logistics page](/logistics). 
 
 The call for participation form is now closed. Thank you to everyone who pitched a session or applied to attend.
 
-<div class="page-divider"><span>About SRCCON:PRODUCT</span></div>
+<div class="page-divider"><span>About the program</span></div>
 
 Product managers play a key role in bridging the gap between executives, newsrooms, revenue teams, and the audience each serves. And “product thinking” is a skill practiced by many within today’s news organizations, regardless of job title. SRCCON:PRODUCT will [bring together these many kinds of product thinkers](https://opennews.org/blog/announcing-srccon-product) to focus on this question:
 
