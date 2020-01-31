@@ -16,6 +16,8 @@ Collaboration is at the core of every SRCCON event. As an attendee, you're here 
 * [About the space & session rooms](#about-the-space)
 * [About the schedule](#about-the-schedule)
 
+For information on venue, hotel, transit, and more, [see our conference logistics page](/logistics).
+
 <span id="about-this-event"></span>
 
 ## About this event

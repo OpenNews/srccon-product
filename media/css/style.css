@@ -59,8 +59,20 @@ h1, h2, h3, h4 {
 .hub #hub-nav .top-bar {
     text-align: left;
     font-size: .8em;
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
+    display: flex;
+    justify-content: flex-end;
 }
+.top-bar a {
+    padding: 0 1em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.top-bar a#back-home {
+    flex-grow: 1;
+}
+
+
 .hub #hub-nav {
     text-align: center;
 }
@@ -105,7 +117,8 @@ h1, h2, h3, h4 {
     padding-right: 1rem;
     float: left;
 }
-.hub ul.upcoming-events {
+.hub ul.upcoming-events,
+.hub ul.actions {
     list-style: none;
     padding: 0;
 }
@@ -778,6 +791,9 @@ table a.session-transcript {
         margin-left: 0;
         width: 95%;
     }
+    .narrow-hide {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -868,8 +884,11 @@ table a.session-transcript {
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 360px) {
     header nav ul {
         font-size: .5em;
-    }   
+    }
+    .hub #hub-nav .top-bar {
+        font-size: .7em;
+    }
 }
