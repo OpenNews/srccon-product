@@ -36,7 +36,8 @@ Here are a few principles that can help:
     * Identify the takeaways you want people to leave with. A new skill? Bigger ideas? A broader sense of community? When you start planning your session by thinking about the end, it helps focus everything that leads up to that moment.
 * **Use your power as a facilitator to keep your session on track.**
     * You set the agenda, and sharing it with everyone as you start can help people get ready to participate. You can decide how to handle unexpected challenges, and when to revise or throw out the plan.
-    * Invite participants to help! There are lots of ways to get people involved, from tracking time during activities to taking notes up on the screen.
+    * Share your resources (even ahead of time). Every session at a SRCCON event has a collaborative notes document linked right from [the schedule](/schedule). You can use it to add links in advance and capture discussions and outcomes during your session.
+    * Invite participants to help! There are lots of ways to get people involved, from tracking time during activities to taking live notes up on the screen.
     * Naming your goals makes it easy to check in with everyone about progress along the way and gives you something to review at the end of the session. (Also known as “tell them what you're going to tell them, then tell them, then tell them what you told them.”)
     * If conversations are getting off-topic, you can acknowledge the interesting things people are bringing up and still nudge them back toward your session goals.
 * **Use your power as a facilitator to make it a welcoming space.**
