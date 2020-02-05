@@ -424,8 +424,12 @@ footer li {
     font-family: freight-text-pro, serif;
 }
 
-#footer-sponsors .page-container:first-child {
+#footer-sponsors .page-container {
     margin-bottom: 1em;
+}
+
+#footer-sponsors .page-container:last-child {
+    margin-bottom: 0;
 }
 
 .sponsor-list a {
