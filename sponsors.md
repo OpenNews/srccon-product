@@ -40,6 +40,13 @@ Interested in having your company or organization get involved? [Find out more a
 </div>
 
 
+<div class="page-divider"><span>Supporting sponsor</span></div>
+
+<div class="sponsor-block secondary">
+    <a href="https://knightfoundation.org/"><img src="/media/img/partners/knight_foundation.png" alt="Knight Foundation"></a>
+</div>
+
+
 <div class="page-divider"><span>Lunch sponsor</span></div>
 
 <div class="sponsor-block secondary">
