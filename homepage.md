@@ -14,9 +14,14 @@ title: SRCCON:PRODUCT 2020 — February 8, Philadelphia
 
 **February 8, 2020, at Temple University in Philadelphia**
 
+SRCCON:PRODUCT Attendees, welcome to Philly!
+
+We are so glad to have you here with us. The registration desk just outside the Underground space will be staffed throughout the event, and our safety and support helpline is **(612) 584-1131**.
+
 <ul class="actions">
     <li>&rarrhk; <a href="/schedule">See the conference schedule!</a></li>
     <li>&rarrhk; <a href="/attendees">Attendee guide with participation tips</a></li>
+    <li>&rarrhk; <a href="/logistics">Logistics info about getting around Philly</a></li>
 </ul>
 
 SRCCON:PRODUCT will be in the [Student Center](https://goo.gl/maps/AvYSqhRTMs4C14nR8) on Temple University's campus in North Philadelphia. We have a [discount hotel block](https://secure3.hilton.com/en_US/hp/reservation/book.htm?inputModule=HOTEL&ctyhocn=PHLCVHX&spec_plan=CHHSRC&arrival=20200207&departure=20200210&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) booked in Center City, and more information about getting around town on our [logistics page](/logistics). 
