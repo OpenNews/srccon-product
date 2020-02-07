@@ -28,7 +28,7 @@ SRCCON:PRODUCT might feel different than many conferences you've been to. It's a
 
 ## Participation tips!
 
-SRCCON events are highly participatory and inclusive, with programs built around listening and sharing. None of us knows everything, but together we know a lot.
+SRCCON events are highly participatory and inclusive, with programs built around listening and sharing. None of us knows everything, but together we know a lot. Prior SRCCON participants shared tips of their own on [our attendee info sharing document](https://etherpad.opennews.org/p/SRCCONPRODUCT2020), which also includes an in-progress list of attendees. 
 
 Here are a few principles that can help you make the most of this event:
 

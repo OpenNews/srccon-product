@@ -11,24 +11,11 @@ SRCCON:PRODUCT will take place at the [Student Center](https://goo.gl/maps/AvYSq
 
 ## Schedule
 
-**Date:** February 8, 2020
-
-Our rough schedule for the day:
-
-* **9am:** Registration opens
-* **10am:** Event opens
-* **Morning:** Sessions & conversation-friendly breaks
-* **Midday:** Lunch at SRCCON:PRODUCT with the people you meet
-* **Afternoon:** More sessions, snacks, & conversation-friendly breaks
-* **6pm:** Event closing
-
-We expect it to be a busy, fun, and productive day where we all take away new ideas and stronger connections with colleagues. We're still finalizing the precise final schedule, but expect that participants from train distance away may arrive in the morning and leave in the evening.
+Registration opens at 9am with breakfast and we'll kick things off at 9:45am. You can find the full schedule [on our schedule app](/schedule). 
 
 ## Hotel
 
-Temple University is on an urban campus in a residential neighborhood without large hotels nearby. We booked a discounted hotel block a short Broad Street Line subway ride away in Center City. There are several other large, chain hotels a similar distance from the venue, with easy access to the Broad Street Line (Broad Street replaces 14th Street in Philadelphia).
-
-You can [use this link to book at the Hampton Inn](https://secure3.hilton.com/en_US/hp/reservation/book.htm?inputModule=HOTEL&ctyhocn=PHLCVHX&spec_plan=CHHSRC&arrival=20200207&departure=20200210&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT), where we have a discount block, with a registration deadline of January 17. The nightly rate will be $129 plus taxes and includes free hot breakfast. 
+The conference hotel is the [Hampton Inn Philadelphia Center City-Convention Center](https://www.hilton.com/en/hotels/phlcvhx-hampton-philadelphia-center-city-convention-center/) in Center City. Temple University is on an urban campus in a residential neighborhood without large hotels nearby. The Hampton Inn a short Broad Street Line subway ride away in Center City. There are several other large, chain hotels a similar distance from the venue, with easy access to the Broad Street Line (Broad Street replaces 14th Street in Philadelphia). 
 
 ## Getting around Philly
 
@@ -42,7 +29,7 @@ If you have any questions or would like more information about other ways to acc
 
 ## Meals at SRCCON
 
-We want you to be happy and well-fed at SRCCON:PRODUCT, so we’re providing lunch, plus we’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. 
+We want you to be happy and well-fed at SRCCON:PRODUCT, so we’re providing breakfast, tickets to pick up lunch in the food court, plus we’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. 
 
 ## Tickets and attendance
 
@@ -62,6 +49,6 @@ We offer free childcare throughout SRCCON:PRODUCT by connecting you with a local
 
 The closest meeting to SRCCON:PRODUCT hotels is Saturday night at 7pm, at [Church of St Luke & the Epiphany](https://www.aasepia.org/?meeting=meeting-330-s-13th-st-philadelphia-pa-19107-usa-6-190000), 330 S. 13th St. It is an “open” meeting, meaning that you don’t have to be alcoholic to go. AA SEPIA also hosts [a full list of area meetings](http://www.aasepia.org/meetings/).
 
-## Coming soon
+## Any other questions?
 
-We'll keep updating this page with more details about what to expect before and during SRCCON:PRODUCT. Stay tuned!
+Reach out to the SRCCON:PRODUCT team if you need anything else at: [srccon@opennews.org](mailto:srccon@opennews.org).
