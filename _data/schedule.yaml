@@ -361,21 +361,6 @@
     }, 
     {
         "day": "Saturday", 
-        "description": "Events like this one need space for emergent ideas and conversations. On Saturday morning, we'll add sessions as a group to fill out the rest of our SRCCON:PRODUCT schedule.", 
-        "everyone": "", 
-        "facilitators": "", 
-        "facilitators_twitter": "", 
-        "id": "unconference-pm2-223", 
-        "length": "60 minutes", 
-        "notepad": "y", 
-        "room": "Room 223", 
-        "time": "4-5pm", 
-        "timeblock": "saturday-pm-2", 
-        "title": "Open for session ideas", 
-        "transcription": ""
-    }, 
-    {
-        "day": "Saturday", 
         "description": "We'll gather as a group to talk about what took place throughout the day, and start planning next steps as a community.", 
         "everyone": "y", 
         "facilitators": "", 
