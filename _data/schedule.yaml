@@ -46,17 +46,17 @@
     }, 
     {
         "day": "Saturday", 
-        "description": "Events like this one need space for emergent ideas and conversations. On Saturday morning, we'll add sessions as a group to fill out the rest of our SRCCON:PRODUCT schedule.", 
+        "description": "", 
         "everyone": "", 
-        "facilitators": "", 
+        "facilitators": "Rich Gordon", 
         "facilitators_twitter": "", 
-        "id": "unconference-am1-b", 
+        "id": "curriculum-teaching", 
         "length": "60 minutes", 
         "notepad": "y", 
         "room": "Underground B", 
         "time": "10:30-11:30am", 
         "timeblock": "saturday-am-1", 
-        "title": "Open for session ideas", 
+        "title": "Curriculum for product management: What should we be teaching?", 
         "transcription": ""
     }, 
     {
@@ -91,17 +91,17 @@
     }, 
     {
         "day": "Saturday", 
-        "description": "Events like this one need space for emergent ideas and conversations. On Saturday morning, we'll add sessions as a group to fill out the rest of our SRCCON:PRODUCT schedule.", 
+        "description": "The \"mini publisher\" model is one of the Knight Table Stakes. Share examples of this model and the \"intrapreneurship\" cycle.", 
         "everyone": "", 
-        "facilitators": "", 
+        "facilitators": "Becky Pallack", 
         "facilitators_twitter": "", 
-        "id": "unconference-am1-223", 
+        "id": "intrapreneurship", 
         "length": "60 minutes", 
         "notepad": "y", 
         "room": "Room 223", 
         "time": "10:30-11:30am", 
         "timeblock": "saturday-am-1", 
-        "title": "Open for session ideas", 
+        "title": "Intrapreneurship: The \"mini publisher\" model", 
         "transcription": ""
     }, 
     {
